@@ -20,5 +20,5 @@ This project utilizes Pygame to visualize various sorting algorithms in action. 
 2. Built using Pygame for graphical interface.
 
 ## Screenshots
-<img width="983" alt="sort_image1" src="https://github.com/sanyashree/Sorting_Algorithms/assets/149993907/ddb411eb-615c-4d33-a3dd-364dca7307e3">
-<img width="971" alt="sort_image2" src="https://github.com/sanyashree/Sorting_Algorithms/assets/149993907/9c24cd62-8f93-433c-8d0f-916e5f09eacf">
+<img width="990" alt="sort_image1" src="https://github.com/sanyashree/Sorting_Algorithms/assets/149993907/ddb411eb-615c-4d33-a3dd-364dca7307e3">
+<img width="990" alt="sort_image2" src="https://github.com/sanyashree/Sorting_Algorithms/assets/149993907/9c24cd62-8f93-433c-8d0f-916e5f09eacf">
